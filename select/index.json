@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "いろはにほへと",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-07T06:01:57.615450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_いろはにほへと_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/02_いろはにほへと_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/03_いろはにほへと_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/04_いろはにほへと_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "さよならポニーテール",
+      "has_synced": false,
+      "path": "select/05_いろはにほへと_さよならポニーテール.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "Sayonara Ponytail",
+      "has_synced": false,
+      "path": "select/06_いろはにほへと_Sayonara_Ponytail.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "Ningen Isu",
+      "has_synced": false,
+      "path": "select/07_いろはにほへと_Ningen_Isu.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/08_いろはにほへと_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/09_いろはにほへと_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/10_いろはにほへと_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/11_いろはにほへと_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "10.いろはにほへと",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/12_10.いろはにほへと_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/13_いろはにほへと_生物股长.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Irohanihoheto (いろはにほへと; Though The Bright Colors May Be Fragrant)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/14_Irohanihoheto_(いろはにほへと;_Though_The_Bright_Colors_May_Be_Fragrant)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Irohanihoheto (いろはにほへと)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/15_Irohanihoheto_(いろはにほへと)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "いろはにほへと",
+      "artist": "AvelCain",
+      "has_synced": false,
+      "path": "select/16_いろはにほへと_AvelCain.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Irohanihoheto (いろはにほへと)",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/17_Irohanihoheto_(いろはにほへと)_Ikimonogakari.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いろはにほへと",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_いろはにほへと_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "いろはにほへと",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_いろはにほへと_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "いろはにほへと",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_いろはにほへと_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "いろはにほへと",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_いろはにほへと_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "いろはにほへと",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_05_いろはにほへと_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "いろはにほへと",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_06_いろはにほへと_椎名_林檎.txt"
+    }
+  ]
+}
